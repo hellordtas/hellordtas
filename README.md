@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**hellordtas/hellordtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Thiago, programador e apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Estudante de análise e desenvolvimento de sistemas
+
+##Boas praticas em linguagem SQL
+
+##Desenvolvedor Ruby on rails 
+
+## Me encontre
+
+https://www.linkedin.com/in/thiago-de-alencar-soares-53ba471b6/
+##
+https://www.instagram.com/tas_lord/
+##
+thiagodealencarsoares@gmail.com
+
+![](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
