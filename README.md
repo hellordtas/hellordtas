@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-##Estudante de análise e desenvolvimento de sistemas
+##Formado análise e desenvolvimento de sistemas
 
 ##Boas praticas em linguagem SQL
 
